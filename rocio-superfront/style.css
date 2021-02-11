@@ -1,0 +1,22 @@
+/* 
+Theme Name:		 Superfront-child
+Description:	 Superfront-child is a child theme of Superfront
+Author:			 team wordpress 2
+Template:		 superfront
+Version:		 1.0.0
+Text Domain:	 superfront-child
+*/
+
+#btnTopPage {
+    height: 50px;
+    width: 50px;
+    background: #ada2ad;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    cursor: pointer;
+}
